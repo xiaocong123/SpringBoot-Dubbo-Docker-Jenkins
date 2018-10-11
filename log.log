@@ -1,3 +1,5 @@
+
+
 2017-10-27 22:30:41.408  INFO 5160 --- [main] c.a.dubbo.common.logger.LoggerFactory    : using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
 2017-10-27 22:30:41.459  INFO 5160 --- [main] GaoxiControllerApplication     : Starting GaoxiControllerApplication on MacBook-Pro.local with PID 5160 (/Users/chibozhou/IdeaProjects/Gaoxi/Gaoxi-Controller/target/classes started by chibozhou in /Users/chibozhou/IdeaProjects/Gaoxi)
 2017-10-27 22:30:41.460  INFO 5160 --- [main] GaoxiControllerApplication     : No active profile set, falling back to default profiles: default
